@@ -1,0 +1,10 @@
+C:\Users\javic\OneDrive\Escritorio\Papa\Cervantes\1 cuatrimestre\Programacion I\1°Parcial\1°Parcial Programacion 1\4- Uvas\bin\Debug\4- Uvas.exe.config
+C:\Users\javic\OneDrive\Escritorio\Papa\Cervantes\1 cuatrimestre\Programacion I\1°Parcial\1°Parcial Programacion 1\4- Uvas\bin\Debug\4- Uvas.exe
+C:\Users\javic\OneDrive\Escritorio\Papa\Cervantes\1 cuatrimestre\Programacion I\1°Parcial\1°Parcial Programacion 1\4- Uvas\bin\Debug\4- Uvas.pdb
+C:\Users\javic\OneDrive\Escritorio\Papa\Cervantes\1 cuatrimestre\Programacion I\1°Parcial\1°Parcial Programacion 1\4- Uvas\bin\Debug\4- Uvas.xml
+C:\Users\javic\OneDrive\Escritorio\Papa\Cervantes\1 cuatrimestre\Programacion I\1°Parcial\1°Parcial Programacion 1\4- Uvas\obj\Debug\4- Uvas.vbprojResolveAssemblyReference.cache
+C:\Users\javic\OneDrive\Escritorio\Papa\Cervantes\1 cuatrimestre\Programacion I\1°Parcial\1°Parcial Programacion 1\4- Uvas\obj\Debug\_4__Uvas.Resources.resources
+C:\Users\javic\OneDrive\Escritorio\Papa\Cervantes\1 cuatrimestre\Programacion I\1°Parcial\1°Parcial Programacion 1\4- Uvas\obj\Debug\4- Uvas.vbproj.GenerateResource.Cache
+C:\Users\javic\OneDrive\Escritorio\Papa\Cervantes\1 cuatrimestre\Programacion I\1°Parcial\1°Parcial Programacion 1\4- Uvas\obj\Debug\4- Uvas.exe
+C:\Users\javic\OneDrive\Escritorio\Papa\Cervantes\1 cuatrimestre\Programacion I\1°Parcial\1°Parcial Programacion 1\4- Uvas\obj\Debug\4- Uvas.xml
+C:\Users\javic\OneDrive\Escritorio\Papa\Cervantes\1 cuatrimestre\Programacion I\1°Parcial\1°Parcial Programacion 1\4- Uvas\obj\Debug\4- Uvas.pdb
